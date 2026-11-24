@@ -103,16 +103,34 @@
 
 ---
 
+
 ## 📌 Featured Projects
 
-| Project | Description |
-| :--- | :--- |
-| **Cryptography Security Application** | Academic project focused on cryptography and information security. |
-| **Java API Project** | Academic project focused on Java and API development. |
-| **Cyber Incident Assistant** | Machine learning-based application for cybersecurity incident classification and recommendations. |
-| **CyberAnomaly MLOps** | Network anomaly detection using deep learning autoencoders and MLOps practices — In progress. |
+### 🔐 CryptoToolkit
+
+A modern offline cryptography and cybersecurity workbench designed for educational purposes and authorized security assessments.
+
+**Key Features:**
+- AES-256-GCM and RSA-OAEP encryption
+- Text and file hash analysis
+- RSA-PSS digital signatures
+- X.509 certificate generation and inspection
+- Encoding utilities and secure secret generation
+- Automated testing with GitHub Actions
+- Standalone Windows executable
+
+**Tech Stack:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-34495E?style=for-the-badge)
+![Cryptography](https://img.shields.io/badge/Cryptography-159B83?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aboubakr-mikou/crypto-toolkit)
+[![Download](https://img.shields.io/badge/Download_v1.0.0-238636?style=for-the-badge)](https://github.com/aboubakr-mikou/crypto-toolkit/releases/tag/v1.0.0)
 
 ---
+
 
 ## 📫 Connect With Me
 
